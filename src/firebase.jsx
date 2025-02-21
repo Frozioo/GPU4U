@@ -8,7 +8,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDUa_v7RrB8Q_3Caa1LkubnUh46lyD1bKo",
+  apiKey: "",
   authDomain: "gpu4u-4b8e9.firebaseapp.com",
   databaseURL: "https://gpu4u-4b8e9-default-rtdb.firebaseio.com",
   projectId: "gpu4u-4b8e9",
